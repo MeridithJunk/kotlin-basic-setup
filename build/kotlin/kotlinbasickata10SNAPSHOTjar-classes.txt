@@ -1,0 +1,1 @@
+C:\Users\15635\IdeaProjects\kotlin-basic-kata\build\classes\kotlin\main\Main.class;C:\Users\15635\IdeaProjects\kotlin-basic-kata\build\classes\kotlin\main\sampleModel.class
